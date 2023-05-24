@@ -1,0 +1,21 @@
+.payment_title{background:#F2F2F2;margin:-20px;padding:16px 5px 16px 25px;line-height:180%;font-size:11px;margin-bottom:15px}
+.payment_title img{float:left;margin-right:12px;box-shadow:0px 1px 2px rgba(0, 0, 0, 0.345);-moz-box-shadow:0px 1px 2px rgba(0, 0, 0, 0.345);-webkit-box-shadow:0px 1px 2px rgba(0, 0, 0, 0.345)}
+.payment_title .fl_l{margin-top:5px}
+.payment_title .fl_r{margin-right:16px}
+.payment_h2{color:#36638E;font-size:13px;font-weight:700;margin:0px 0px 6px;margin-top:9px}
+.payment_sel{font-size:13px;font-family:Verdana;width:200px}
+.payment_block{padding:10px;background:#f5f5f5;line-height:17px;background:#F3F5FA;margin-top:12px;font-size:11px}
+.playment_but{text-align:center;font-size:11px;line-height:180%;margin-top:10px}
+.payment_logo{float:right;margin-top:-180px;opacity:0.1;height:210px;overflow:hidden}
+.payment_inp{font-size:21px;width:47px;margin-top:10px;text-align:center}
+#payments_getvotes_wrap { padding:18px 25px;}
+.payments_getvotes_method_opt { color: #777777;display: block;margin: 0px -5px;padding: 10px 13px;}
+.payments_getvotes_method_opt img { display: none;padding-top: 15px;}
+.payments_getvotes_method_img { background: url("../images/payment.png") 0px 0px no-repeat transparent;border-radius: 2px;float: left;height: 41px;margin-right: 12px;width: 42px;}
+.payments_getvotes_method_text { height: 42px;margin-left: 54px;}
+.payments_getvotes_method_opt h2 { border: medium none currentColor;color: #36638E;font-size: 1.18em;font-weight: 700;margin: 0px;padding: 0px;}
+.payments_getvotes_method_opt:hover, #payments_getvotes_method .payments_getvotes_active_row { background-color: #EDF0F2;color: #6A7989;text-decoration: none;cursor: pointer;}
+.payments_method_card {  background-position: 0 -41px !important;}
+.payments_method_ps {  background-position: 0 -82px !important;}
+.payments_method_term {  background-position: 0 -123px !important;}
+.payments_method_offers {  background-position: 0 -164px !important;}

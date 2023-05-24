@@ -1,0 +1,1308 @@
+/* NEW RATING */
+
+
+#rateGold {
+ margin: -12px 0px 12px 0px;
+ padding-top: 5px;
+}
+
+#percentGoldm {
+ position:relative;
+ left:90px;
+ top:15px;
+ color: #8BA1BC;
+}
+
+#rateLeftGoldm {
+ float:left;
+ height: 16px;
+ width: 1px;
+ border-top: 1px solid #C0CCD9;
+ background-color:#DAE2E8;
+}
+
+#rateRightGoldm {
+ float:left;
+ height: 16px;
+ width: 195px;
+ border-top: 1px solid #ECECEC;
+ border-right: 1px solid #EEE;
+ background-color:#FAFAFA;
+}
+
+#percentGold0 {
+ position:relative;
+ left:90px;
+ top:15px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold0 {
+ float:left;
+ height: 16px;
+ width: 11px;
+ border-top: 1px solid #C0CCD9;
+ background-color:#DAE2E8;
+}
+
+#rateRightGold0 {
+ float:left;
+ height: 16px;
+ width: 185px;
+ border-top: 1px solid #ECECEC;
+ border-right: 1px solid #EEE;
+ background-color:#FAFAFA;
+}
+
+
+#percentGold10 {
+ position:relative;
+ left:90px;
+ top:15px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold10 {
+ float:left;
+ height: 16px;
+ width: 21px;
+ border-top: 1px solid #C0CCD9;
+ background-color:#DAE2E8;
+}
+
+#rateRightGold10 {
+ float:left;
+ height: 16px;
+ width: 175px;
+ border-top: 1px solid #ECECEC;
+ border-right: 1px solid #EEE;
+ background-color:#FAFAFA;
+}
+
+#percentGold20 {
+ position:relative;
+ left:90px;
+ top:15px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold20 {
+ float:left;
+ height: 16px;
+ width: 41px;
+ border-top: 1px solid #C0CCD9;
+ background-color:#DAE2E8;
+}
+
+#rateRightGold20 {
+ float:left;
+ height: 16px;
+ width: 155px;
+ border-top: 1px solid #ECECEC;
+ border-right: 1px solid #EEE;
+ background-color:#FAFAFA;
+}
+
+#percentGold40 {
+ position:relative;
+ left:90px;
+ top:15px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold40 {
+ float:left;
+ height: 16px;
+ width: 61px;
+ border-top: 1px solid #C0CCD9;
+ background-color:#DAE2E8;
+}
+
+#rateRightGold40 {
+ float:left;
+ height: 16px;
+ width: 135px;
+ border-top: 1px solid #ECECEC;
+ border-right: 1px solid #EEE;
+ background-color:#FAFAFA;
+}
+
+#percentGold50 {
+ position:relative;
+ left:90px;
+ top:15px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold50 {
+ float:left;
+ height: 16px;
+ width: 101px;
+ border-top: 1px solid #C0CCD9;
+ background-color:#DAE2E8;
+}
+
+#rateRightGold50 {
+ float:left;
+ height: 16px;
+ width: 95px;
+ border-top: 1px solid #ECECEC;
+ border-right: 1px solid #EEE;
+ background-color:#FAFAFA;
+}
+
+#percentGold60 {
+ position:relative;
+ left:90px;
+ top:15px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold60 {
+ float:left;
+ height: 16px;
+ width: 111px;
+ border-top: 1px solid #C0CCD9;
+ background-color:#DAE2E8;
+}
+
+#rateRightGold60 {
+ float:left;
+ height: 16px;
+ width: 85px;
+ border-top: 1px solid #ECECEC;
+ border-right: 1px solid #EEE;
+ background-color:#FAFAFA;
+}
+
+
+#percentGold80 {
+ position:relative;
+ left:90px;
+ top:15px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold80 {
+ float:left;
+ height: 16px;
+ width: 151px;
+ border-top: 1px solid #C0CCD9;
+ background-color:#DAE2E8;
+}
+
+#rateRightGold80 {
+ float:left;
+ height: 16px;
+ width: 45px;
+ border-top: 1px solid #ECECEC;
+ border-right: 1px solid #EEE;
+ background-color:#FAFAFA;
+}
+
+#percentGold90 {
+ position:relative;
+ left:90px;
+ top:15px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold90 {
+ float:left;
+ height: 16px;
+ width: 181px;
+ border-top: 1px solid #C0CCD9;
+ background-color:#DAE2E8;
+}
+
+#rateRightGold90 {
+ float:left;
+ height: 16px;
+ width: 15px;
+ border-top: 1px solid #ECECEC;
+ border-right: 1px solid #EEE;
+ background-color:#FAFAFA;
+}
+
+#percentGold100 {
+ position:relative;
+ left:90px;
+ top:15px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold100 {
+ float:left;
+ height: 16px;
+ width: 198px;
+ border-top: 1px solid #C0CCD9;
+ background-color:#DAE2E8;
+}
+
+#rateRightGold100 {
+ float:left;
+ height: 16px;
+ width: 1px;
+ border-top: 1px solid #ECECEC;
+ border-right: 1px solid #EEE;
+ background-color:#FAFAFA;
+}
+
+
+#rateLeftGold101 {
+ float:left;
+ height: 16px;
+ width: 11px;
+ border-top: 1px solid #CCC490;
+ background-color:#E0D7A3;
+}
+
+#rateRightGold101 {
+ float:left;
+ height: 16px;
+ width: 187px;
+ border-top: 1px solid #E2DAA6;
+ border-right: 1px solid #EEE;
+ background-color:#F5EBBB;
+}
+
+#percentGold101 {
+ top:15px;
+ font-size: 11px;
+ color: #AAA26C;
+ text-align: center;
+ position:relative;
+}
+
+#rateLeftGold200 {
+ float:left;
+ height: 16px;
+ width: 31px;
+ border-top: 1px solid #CCC490;
+ background-color:#E0D7A3;
+}
+
+#rateRightGold200 {
+ float:left;
+ height: 16px;
+ width: 167px;
+ border-top: 1px solid #E2DAA6;
+ border-right: 1px solid #EEE;
+ background-color:#F5EBBB;
+}
+
+#percentGold200 {
+ position:relative;
+ left:93px;
+ top:15px; font-size:11px;
+ color: #AAA26C;
+}
+
+
+
+#rateLeftGold300 {
+ float:left;
+ height: 16px;
+ width: 51px;
+ border-top: 1px solid #CCC490;
+ background-color:#E0D7A3;
+}
+
+#rateRightGold300 {
+ float:left;
+ height: 16px;
+ width: 147px;
+ border-top: 1px solid #E2DAA6;
+ border-right: 1px solid #EEE;
+ background-color:#F5EBBB;
+}
+
+#percentGold300 {
+ position:relative;
+ left:93px;
+ top:15px; font-size:11px;
+ color: #AAA26C;
+}
+
+
+
+#rateLeftGold400 {
+ float:left;
+ height: 16px;
+ width: 71px;
+ border-top: 1px solid #CCC490;
+ background-color:#E0D7A3;
+}
+
+#rateRightGold400 {
+ float:left;
+ height: 16px;
+ width: 127px;
+ border-top: 1px solid #E2DAA6;
+ border-right: 1px solid #EEE;
+ background-color:#F5EBBB;
+}
+
+#percentGold400 {
+ position:relative;
+ left:93px;
+ top:15px; font-size:11px;
+ color: #AAA26C;
+}
+
+
+
+#rateLeftGold500 {
+ float:left;
+ height: 16px;
+ width: 91px;
+ border-top: 1px solid #CCC490;
+ background-color:#E0D7A3;
+}
+
+#rateRightGold500 {
+ float:left;
+ height: 16px;
+ width: 107px;
+ border-top: 1px solid #E2DAA6;
+ border-right: 1px solid #EEE;
+ background-color:#F5EBBB;
+}
+
+#percentGold500 {
+ position:relative;
+ left:93px;
+ top:15px; font-size:11px;
+ color: #AAA26C;
+}
+
+
+
+#rateLeftGold550 {
+ float:left;
+ height: 16px;
+ width: 101px;
+ border-top: 1px solid #CCC490;
+ background-color:#E0D7A3;
+}
+
+#rateRightGold550 {
+ float:left;
+ height: 16px;
+ width: 97px;
+ border-top: 1px solid #E2DAA6;
+ border-right: 1px solid #EEE;
+ background-color:#F5EBBB;
+}
+
+#percentGold550 {
+ position:relative;
+ left:93px;
+ top:15px; font-size:11px;
+ color: #AAA26C;
+}
+
+
+
+#rateLeftGold600 {
+ float:left;
+ height: 16px;
+ width: 121px;
+ border-top: 1px solid #CCC490;
+ background-color:#E0D7A3;
+}
+
+#rateRightGold600 {
+ float:left;
+ height: 16px;
+ width: 77px;
+ border-top: 1px solid #E2DAA6;
+ border-right: 1px solid #EEE;
+ background-color:#F5EBBB;
+}
+
+#percentGold600 {
+ position:relative;
+ left:93px;
+ top:15px; font-size:11px;
+ color: #AAA26C;
+}
+
+
+
+#rateLeftGold700 {
+ float:left;
+ height: 16px;
+ width: 141px;
+ border-top: 1px solid #CCC490;
+ background-color:#E0D7A3;
+}
+
+#rateRightGold700 {
+ float:left;
+ height: 16px;
+ width: 57px;
+ border-top: 1px solid #E2DAA6;
+ border-right: 1px solid #EEE;
+ background-color:#F5EBBB;
+}
+
+#percentGold700 {
+ position:relative;
+ left:93px;
+ top:15px; font-size:11px;
+ color: #AAA26C;
+}
+
+
+
+#rateLeftGold800 {
+ float:left;
+ height: 16px;
+ width: 161px;
+ border-top: 1px solid #CCC490;
+ background-color:#E0D7A3;
+}
+
+#rateRightGold800 {
+ float:left;
+ height: 16px;
+ width: 37px;
+ border-top: 1px solid #E2DAA6;
+ border-right: 1px solid #EEE;
+ background-color:#F5EBBB;
+}
+
+#percentGold800 {
+ position:relative;
+ left:93px;
+ top:15px; font-size:11px;
+ color: #AAA26C;
+}
+
+
+
+#rateLeftGold900 {
+ float:left;
+ height: 16px;
+ width: 181px;
+ border-top: 1px solid #CCC490;
+ background-color:#E0D7A3;
+}
+
+#rateRightGold900 {
+ float:left;
+ height: 16px;
+ width: 17px;
+ border-top: 1px solid #E2DAA6;
+ border-right: 1px solid #EEE;
+ background-color:#F5EBBB;
+}
+
+#percentGold900 {
+ position:relative;
+ left:93px;
+ top:15px; font-size:11px;
+ color: #AAA26C;
+}
+
+
+
+
+#rateLeftGold950 {
+ float:left;
+ height: 16px;
+ width: 198px;
+ border-top: 1px solid #CCC490;
+ background-color:#E0D7A3;
+}
+
+#rateRightGold950 {
+ float:left;
+ height: 16px;
+ width: 1px;
+ border-top: 1px solid #E2DAA6;
+ border-right: 1px solid #EEE;
+ background-color:#F5EBBB;
+}
+
+#percentGold950 {
+ position:relative;
+ left:93px;
+ top:15px; font-size:11px;
+ color: #AAA26C;
+}
+
+#rateLeftGold1000 {
+ float:left;
+ height: 16px;
+ width: 11px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold1000 {
+ float:left;
+ height: 16px;
+ width: 187px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold1000 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+
+#rateLeftGold1100 {
+ float:left;
+ height: 16px;
+ width: 15px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold1100 {
+ float:left;
+ height: 16px;
+ width: 183px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold1100 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold1200 {
+ float:left;
+ height: 16px;
+ width: 20px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold1200 {
+ float:left;
+ height: 16px;
+ width: 178px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold1200 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold1500 {
+ float:left;
+ height: 16px;
+ width: 25px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold1500 {
+ float:left;
+ height: 16px;
+ width: 173px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold1500 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold1800 {
+ float:left;
+ height: 16px;
+ width: 30px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold1800 {
+ float:left;
+ height: 16px;
+ width: 168px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold1800 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold2200 {
+ float:left;
+ height: 16px;
+ width: 35px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold2200 {
+ float:left;
+ height: 16px;
+ width: 163px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold2200 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold2500 {
+ float:left;
+ height: 16px;
+ width: 40px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold2500 {
+ float:left;
+ height: 16px;
+ width: 158px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold2500 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold3000 {
+ float:left;
+ height: 16px;
+ width: 45px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold3000 {
+ float:left;
+ height: 16px;
+ width: 153px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold3000 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold3300 {
+ float:left;
+ height: 16px;
+ width: 50px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold3300 {
+ float:left;
+ height: 16px;
+ width: 148px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold3300 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold3700 {
+ float:left;
+ height: 16px;
+ width: 60px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold3700 {
+ float:left;
+ height: 16px;
+ width: 138px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold3700 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold4000 {
+ float:left;
+ height: 16px;
+ width: 65px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold4000 {
+ float:left;
+ height: 16px;
+ width: 133px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold4000 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold4900 {
+ float:left;
+ height: 16px;
+ width: 90px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold4900 {
+ float:left;
+ height: 16px;
+ width: 108px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold4900 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold5000 {
+ float:left;
+ height: 16px;
+ width: 100px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold5000 {
+ float:left;
+ height: 16px;
+ width: 98px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold5000 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold5500 {
+ float:left;
+ height: 16px;
+ width: 110px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold5500 {
+ float:left;
+ height: 16px;
+ width: 88px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold5500 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold5900 {
+ float:left;
+ height: 16px;
+ width: 130px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold5900 {
+ float:left;
+ height: 16px;
+ width: 78px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold5900 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold6500 {
+ float:left;
+ height: 16px;
+ width: 130px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold6500 {
+ float:left;
+ height: 16px;
+ width: 68px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold6500 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold7000 {
+ float:left;
+ height: 16px;
+ width: 140px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold7000 {
+ float:left;
+ height: 16px;
+ width: 58px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold7000 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold8000 {
+ float:left;
+ height: 16px;
+ width: 150px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold8000 {
+ float:left;
+ height: 16px;
+ width: 48px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold8000 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold9500 {
+ float:left;
+ height: 16px;
+ width: 180px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold9500 {
+ float:left;
+ height: 16px;
+ width: 18px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold9500 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+#rateLeftGold9900 {
+ float:left;
+ height: 16px;
+ width: 198px;
+ border-top: 1px solid #8D7A38;
+
+ background: #B19A52;
+
+}
+
+#rateRightGold9900 {
+ float:left;
+ height: 16px;
+ width: 1px;
+ border-top: 1px solid #A59250;
+
+ background: #C9B36E;
+
+}
+
+#percentGold9900 {
+ top:15px;
+ font-size: 11px;
+ color: #FFF2C8;
+ font-weight: bold;
+ text-align: center;
+ position:relative;
+
+}
+
+
+
+#rateLeftGold10000 {
+ float:left;
+ width: 7px;
+ border-top: 1px solid #B29F4E;
+ background: #CBB464;
+}
+#rateRightGold10000 {
+ float:left;
+ height: 16px;
+ width: 191px;
+ border-top: 1px solid #C5B565;
+ background: #E1CC7E;
+}
+#percentGold10000 {
+ top:15px;
+ font-size: 11px;
+ color: #948239;
+ font-weight: normal;
+ left: 85px;
+ position:relative;
+}
+
+
+
+#rateLeftGold20000 {
+ float:left;
+ width: 37px;
+ border-top: 1px solid #B29F4E;
+ background: #CBB464;
+}
+#rateRightGold20000 {
+ float:left;
+ height: 16px;
+ width: 161px;
+ border-top: 1px solid #C5B565;
+ background: #E1CC7E;
+}
+#percentGold20000 {
+ top:15px;
+ font-size: 11px;
+ color: #948239;
+ font-weight: normal;
+ left: 85px;
+ position:relative;
+}
+
+#rateLeftGold35000 {
+ float:left;
+ width: 67px;
+ border-top: 1px solid #B29F4E;
+ background: #CBB464;
+}
+#rateRightGold35000 {
+ float:left;
+ height: 16px;
+ width: 131px;
+ border-top: 1px solid #C5B565;
+ background: #E1CC7E;
+}
+#percentGold35000 {
+ top:15px;
+ font-size: 11px;
+ color: #948239;
+ font-weight: normal;
+ left: 85px;
+ position:relative;
+}
+
+
+
+#rateLeftGold45000 {
+ float:left;
+ width: 97px;
+ border-top: 1px solid #B29F4E;
+ background: #CBB464;
+}
+#rateRightGold45000 {
+ float:left;
+ height: 16px;
+ width: 101px;
+ border-top: 1px solid #C5B565;
+ background: #E1CC7E;
+}
+#percentGold45000 {
+ top:15px;
+ font-size: 11px;
+ color: #948239;
+ font-weight: normal;
+ left: 85px;
+ position:relative;
+}
+#rateLeftGold55000 {
+ float:left;
+ width: 117px;
+ border-top: 1px solid #B29F4E;
+ background: #CBB464;
+}
+#rateRightGold55000 {
+ float:left;
+ height: 16px;
+ width: 81px;
+ border-top: 1px solid #C5B565;
+ background: #E1CC7E;
+}
+#percentGold55000 {
+ top:15px;
+ font-size: 11px;
+ color: #948239;
+ font-weight: normal;
+ left: 85px;
+ position:relative;
+}
+
+#rateLeftGold75000 {
+ float:left;
+ width: 147px;
+ border-top: 1px solid #B29F4E;
+ background: #CBB464;
+}
+#rateRightGold75000 {
+ float:left;
+ height: 16px;
+ width: 51px;
+ border-top: 1px solid #C5B565;
+ background: #E1CC7E;
+}
+#percentGold75000 {
+ top:15px;
+ font-size: 11px;
+ color: #948239;
+ font-weight: normal;
+ left: 85px;
+ position:relative;
+}
+
+/* clearFix */
+
+.clearFix:after, .clear_fix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.clear {
+  float: none;
+  clear: both;
+}
+
+.profile_rate_pos{float:left;width:200px;}

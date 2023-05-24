@@ -1,0 +1,69 @@
+<div class="fc_tab_wrap" style="width: 252.000075px;">
+<div class="fc_tab_head clear_fix">
+<a class="fc_tab_close_wrap fl_r">
+<div class="chats_sp fc_tab_close"></div></a>
+<a class="fc_tab_max_wrap fl_r" href="/im?sel=160971542" onmousedown="event.cancelBubble = true;" onclick="return nav.go(this, event);">
+<div class="chats_sp fc_tab_max"></div></a>
+<a class="fc_tab_pin_wrap fl_r" onmousedown="event.cancelBubble = true;" onclick="return FastChat.pinTab(160971542, event);"><div class="chats_sp fc_tab_pin"></div></a>
+<div class="fc_tab_title noselect fl_l" style="max-width: 181px;">Danik Zinoviev</div>
+<div class="fl_l fc_tab_online_icon" onmouseover="FastChat.tip(this, {mid: 160971542})" onmousedown="FastChat.promost(this)" onclick="return FastChat.promo(this, event)">
+</div></div><div class="fc_tab  fc_tab_mobile"><div class="fc_tab_log_wrap"><div class="fc_tab_notify_wrap"></div>
+<div class="fc_scrollbar_cont" style="height: 315px; right: 1px; left: auto; pointer-events: auto;">
+<div class="fc_scrollbar_inner" style="display: block; height: 136px; margin-top: 177px;"></div></div><div class="fc_tab_log" style="height: 315.000315px; overflow: hidden;">
+<div class="fc_tab_log_msgs"><div class="fc_msgs_wrap " data-from="160971542" data-date="1403017626"><div class="chats_sp fc_in_msg_arr"></div>
+<a class="fc_msgs_author" href="/nessaidj"><img src="https://pp.vk.me/c618228/v618228542/2f09/8vS_vpcmTJA.jpg" title="Danik Zinoviev" class="fc_msgs_author"></a>
+<div class="fc_msgs fl_l"><div id="fc_msg119653" class="fc_msg wrapped  fc_msg_last fl_l">Ахах ну лан</div><div class="fc_msgs_date fl_r">19:07</div>
+<br class="clear"></div><br class="clear"></div><div class="fc_msgs_wrap fc_msgs_out" data-from="152042629" data-date="1403017665">
+<div class="chats_sp fc_out_msg_arr"></div><div class="fc_msgs fl_r"><div id="fc_msg119654" class="fc_msg wrapped  fc_msg_last fl_l">Похавал</div>
+<div class="fc_msgs_date fl_r">19:07</div><br class="clear"></div><br class="clear"></div><div class="fc_msgs_wrap " data-from="160971542" data-date="1403017694">
+<div class="chats_sp fc_in_msg_arr"></div>
+<a class="fc_msgs_author" href="/nessaidj"><img src="https://pp.vk.me/c618228/v618228542/2f09/8vS_vpcmTJA.jpg" title="Danik Zinoviev" class="fc_msgs_author"></a>
+<div class="fc_msgs fl_l"><div id="fc_msg119655" class="fc_msg wrapped  fc_msg_last fl_l">Че у тя там</div><div class="fc_msgs_date fl_r">19:08</div><br class="clear">
+</div><br class="clear"></div><div class="fc_msgs_wrap fc_msgs_out" data-from="152042629" data-date="1403017732"><div class="chats_sp fc_out_msg_arr"></div>
+<div class="fc_msgs fl_r"><div id="fc_msg119656" class="fc_msg wrapped  fc_msg_last fl_l">Трабла</div><div class="fc_msgs_date fl_r">19:08</div><br class="clear">
+</div><br class="clear"></div><div class="fc_msgs_wrap " data-from="160971542" data-date="1403017741"><div class="chats_sp fc_in_msg_arr"></div>
+<a class="fc_msgs_author" href="/nessaidj"><img src="https://pp.vk.me/c618228/v618228542/2f09/8vS_vpcmTJA.jpg" title="Danik Zinoviev" class="fc_msgs_author">
+</a><div class="fc_msgs fl_l"><div id="fc_msg119657" class="fc_msg wrapped  fc_msg_last fl_l">С чем</div><div class="fc_msgs_date fl_r">19:09</div>
+<br class="clear"></div><br class="clear"></div><div class="fc_msgs_wrap fc_msgs_out" data-from="152042629" data-date="1403017748">
+<div class="chats_sp fc_out_msg_arr"></div><div class="fc_msgs fl_r"><div id="fc_msg119658" class="fc_msg wrapped ">С качалкой</div>
+<div id="fc_msg119659" class="fc_msg wrapped  fc_msg_last fl_l">Я ж подрабатываю) нянькой</div><div class="fc_msgs_date fl_r">19:09</div>
+<br class="clear"></div><br class="clear"></div><div class="fc_msgs_wrap " data-from="160971542" data-date="1403017772"><div class="chats_sp fc_in_msg_arr">
+</div><a class="fc_msgs_author" href="/nessaidj"><img src="https://pp.vk.me/c618228/v618228542/2f09/8vS_vpcmTJA.jpg" title="Danik Zinoviev" class="fc_msgs_author">
+</a><div class="fc_msgs fl_l"><div id="fc_msg119660" class="fc_msg wrapped  fc_msg_last fl_l">Ахахах скок платят <img class="emoji" alt="😂" src="/images/emoji/D83DDE02.png">
+</div><div class="fc_msgs_date fl_r">19:09</div><br class="clear"></div><br class="clear"></div>
+<div class="fc_msgs_wrap fc_msgs_out" data-from="152042629" data-date="1403017797"><div class="chats_sp fc_out_msg_arr"></div>
+<div class="fc_msgs fl_r"><div id="fc_msg119661" class="fc_msg wrapped ">Сестра настояла на 500 руб в день, я против)</div>
+<div id="fc_msg119662" class="fc_msg wrapped ">Мне пофиг)</div><div id="fc_msg119663" class="fc_msg wrapped ">Сестре помогаю) она на работу устроилась</div>
+<div id="fc_msg119664" class="fc_msg wrapped ">А я нянькой)</div><div id="fc_msg119665" class="fc_msg wrapped  fc_msg_last fl_l">Стаж с 3 лет, если че:)</div>
+<div class="fc_msgs_date fl_r">19:09</div><br class="clear"></div><br class="clear"></div><div class="fc_msgs_wrap " data-from="160971542" data-date="1403017839">
+<div class="chats_sp fc_in_msg_arr"></div><a class="fc_msgs_author" href="/nessaidj">
+<img src="https://pp.vk.me/c618228/v618228542/2f09/8vS_vpcmTJA.jpg" title="Danik Zinoviev" class="fc_msgs_author"></a>
+<div class="fc_msgs fl_l"><div id="fc_msg119666" class="fc_msg wrapped  fc_msg_last fl_l">
+Ахахах ну ясно <br>И как в качалку ходить будешь ?</div><div class="fc_msgs_date fl_r">19:10</div><br class="clear"></div><br class="clear"></div>
+<div class="fc_msgs_wrap fc_msgs_out" data-from="152042629" data-date="1403017854"><div class="chats_sp fc_out_msg_arr"></div><div class="fc_msgs fl_r">
+<div id="fc_msg119667" class="fc_msg wrapped ">Да 100% буду гонять</div><div id="fc_msg119668" class="fc_msg wrapped  fc_msg_last fl_l">Сегодня не получилось</div>
+<div class="fc_msgs_date fl_r">19:10</div><br class="clear"></div><br class="clear"></div><div class="fc_msgs_wrap " data-from="160971542" data-date="1403017892">
+<div class="chats_sp fc_in_msg_arr"></div><a class="fc_msgs_author" href="/nessaidj">
+<img src="https://pp.vk.me/c618228/v618228542/2f09/8vS_vpcmTJA.jpg" title="Danik Zinoviev" class="fc_msgs_author"></a><div class="fc_msgs fl_l">
+<div id="fc_msg119669" class="fc_msg wrapped ">А  ну крч <br>Я завтра наверно после 5 пойду</div><div id="fc_msg119670" class="fc_msg wrapped  fc_msg_last fl_l">
+Я то думал у тебя со здоровьем проблемы какие-то</div><div class="fc_msgs_date fl_r">19:11</div><br class="clear"></div><br class="clear"></div>
+<div class="fc_msgs_wrap fc_msgs_out" data-from="152042629" data-date="1403018335"><div class="chats_sp fc_out_msg_arr"></div><div class="fc_msgs fl_r">
+<div id="fc_msg119671" class="fc_msg wrapped  fc_msg_last fl_l">Единственная проблема со здоровьем - телки не дают :с Мб просто я не намекаю им насчет секаса</div>
+<div class="fc_msgs_date fl_r">19:18</div><br class="clear"></div><br class="clear"></div><div class="fc_msgs_wrap " data-from="160971542" data-date="1403018351">
+<div class="chats_sp fc_in_msg_arr"></div><a class="fc_msgs_author" href="/nessaidj">
+<img src="https://pp.vk.me/c618228/v618228542/2f09/8vS_vpcmTJA.jpg" title="Danik Zinoviev" class="fc_msgs_author"></a>
+<div class="fc_msgs fl_l"><div id="fc_msg119672" class="fc_msg wrapped  fc_msg_last fl_l">Аххахаахахха<img class="emoji" alt="😂" src="/images/emoji/D83DDE02.png">
+<img class="emoji" alt="😂" src="/images/emoji/D83DDE02.png"></div><div class="fc_msgs_date fl_r">19:19</div><br class="clear"></div>
+<br class="clear"></div></div><div class="fc_tab_typing" id="fc_tab_typing160971542"></div></div></div><div class="fc_tab_txt_wrap">
+<a class="fc_tab_attach"><div class="chats_sp fc_tab_attach_icon"></div></a><div class="fc_tab_txt"><div class="emoji_cont">
+<div title="Используйте TAB, чтобы быстрее открывать смайлы" class="fl_l emoji_smile fc_emoji" onmouseover="Emoji.ttOver(this);" onmouseout="Emoji.ttOut(this);" onmousedown="return Emoji.ttClick(0, this, false, false, event);" onclick="return cancelEvent(event);" style="right: 1px; opacity: 0.7;">
+<div class="emoji_smile_icon_on"></div><div class="emoji_smile_icon"></div></div><div class="fc_editable" tabindex="0" contenteditable="true"></div>
+</div><div class="fc_tab_preview multi_media_preview"><div id="page_pics_preview2" class="page_pics_preview media_preview clear_fix"></div>
+<div id="page_dpics_preview2" class="page_pics_preview page_media_sortable media_preview clear_fix"></div>
+<div id="page_docs_preview2" class="page_docs_preview page_media_sortable media_preview clear_fix"></div>
+<div id="page_pdocs_preview2" class="page_docs_preview media_preview clear_fix"></div>
+<div id="page_ldocs_preview2" class="page_docs_preview media_preview clear_fix"></div>
+<div id="page_mpics_preview2" class="page_pics_preview media_preview clear_fix"></div>
+<div id="page_ppdocs_preview2" class="page_docs_preview media_preview clear_fix"></div>
+<div id="page_progress_preview2" class="page_progress_preview media_preview clear_fix">
+</div></div></div></div></div><div class="fc_pointer_offset"><div class="chats_sp fc_tab_pointer fc_tab_pointer_peer"></div></div></div>

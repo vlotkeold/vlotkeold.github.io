@@ -1,0 +1,206 @@
+.im_stickers_my_cont {
+  overflow: hidden;
+}
+#im_stickers_my_wrap {
+  padding: 4px 15px 10px;
+  position: relative;
+}
+#im_stickers_deact {
+  padding: 0px 15px 10px;
+  position: relative;
+  overflow: hidden;
+}
+.im_sticker_bl_mimg {
+  width: 96px;
+  text-align: center;
+  padding-right: 4px;
+}
+.im_sticker_bl {
+  width: 240px;
+  padding: 10px 10px 8px 10px;
+  display: block;
+}
+.im_sticker_bl:hover {
+  background: #edf0f3;
+  text-decoration: none;
+}
+.im_sticker_bl_imgs {
+  width: 140px;
+  padding-top: 1px;
+}
+.im_sticker_bl_simg {
+  text-align: center;
+  width: 42px;
+  height: 42px;
+  padding: 2px;
+}
+.im_sticker_bl_info {
+  text-align: left;
+  padding: 6px 4px 4px;
+}
+.im_sticker_bl_name {
+  font-weight: bold;
+  font-size: 13px;
+  color: #45688E;
+  padding: 1px 0px 2px 0px;
+}
+.im_sticker_bl_desc {
+  color: #999;
+}
+.im_sticker_bl:hover .im_sticker_bl_desc {
+  color: #8795A5;
+}
+.im_sticker_bl_btn {
+  padding-top: 5px;
+}
+.im_stickers_buy_header {
+  background: #eef0f2;
+  padding: 10px 16px 11px;
+}
+.im_stickerpack_img {
+  margin: 4px 10px 0px 0px;
+}
+.im_stickerpack_buy {
+  margin-top: 11px;
+}
+.im_stickerpack_author {
+  color: #888888;
+}
+.im_stickerpack_desc {
+  color: #777;
+  margin-top: 6px;
+  line-height: 150%;
+}
+.im_stickerpack_name {
+  font-weight: bold;
+  font-size: 13px;
+  color: #45688E;
+  padding: 5px 0px 4px 0px;
+}
+.im_stickerpack_preview {
+  width: 92px;
+  height: 92px;
+  text-align: center;
+  padding: 8px 12px;
+}
+.im_stickerpack_list {
+  padding: 17px;
+}
+.im_sticker_act {
+  background: #e8ebed;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  color: #8e949c;
+  padding: 6px 8px 7px;
+  margin-top: 3px;
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+}
+.im_stickerpack_info .im_sticker_act {
+  background: #E0E1E2;
+  margin-top: 10px;
+  margin-bottom: 2px;
+}
+.im_sticker_bl:hover .im_sticker_act {
+  background: #D5DBDF;
+}
+.im_sticker_act_blue, .im_stickerpack_info .im_sticker_act_blue {
+  background: #6689b7;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+.im_sticker_bl:hover .im_sticker_act_blue {
+  background: #6689b7;
+}
+.im_sticker_bl .im_sticker_act_blue:hover,
+.im_sticker_act_blue:hover {
+  background: #7393BD;
+}
+.im_sticker_bl .im_sticker_act_blue:active,
+.im_sticker_act_blue:active {
+  padding-top: 7px;
+  padding-bottom: 6px;
+  background: #6A86AC;
+}
+.im_stickers_act_done {
+  width: 15px;
+  height: 12px;
+  margin: 2px 0px 1px 5px;
+  background-position: -116px 0px;
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+}
+.im_stickers_act_short {
+  padding-left: 7px;
+  padding-right: 7px;
+  margin-right: 10px;
+}
+.im_stickers_act_short .im_stickers_act_done {
+  margin-left: 0px;
+}
+.im_stickers_progress {
+  vertical-align: text-top;
+}
+.im_stickers_empty {
+  font-size: 1.2em;
+  text-align: center;
+  color: #777777;
+  padding: 50px;
+}
+.im_stickers_my_img_cont {
+  width: 48px;
+  text-align: center;
+}
+.im_stickers_my_act {
+  margin-top: 4px;
+  display: block;
+  padding: 6px 10px 6px 10px;
+}
+.im_stickers_my_act:hover {
+  background: #E1E7ED;
+  text-decoration: none;
+}
+.im_stickers_my_row {
+  border-top: 1px solid #eef0f2;
+  padding: 10px 0px 10px 8px;
+  background: #FFFFFF;
+}
+.im_stickers_my_first {
+  border-top: none;
+}
+.im_stickers_my_info {
+  padding-left: 10px
+}
+.im_stickers_name {
+  font-weight: bold;
+  color: #36638E;
+  padding: 6px 0px 4px 0px;
+}
+.im_stickers_desc {
+  color: #888888;
+}
+.im_stickers_my_summary {
+  padding: 0px 0px 2px;
+  margin: 2px 0px 0px;
+  color: #45688E;
+  border-bottom: 1px solid #DAE1E8;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.im_stickers_gift_act {
+  padding-left: 10px;
+}
+.im_sticker_gift_box_to {
+  color: #45688E;
+  line-height: 1.27em;
+  margin: 0px;
+  padding: 10px 0px 9px;
+  font-size: 1.09em;
+  font-weight: bold;
+}
+#im_stickers_gift_desc {
+  padding-top: 14px;
+}
